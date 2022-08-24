@@ -1,2 +1,3 @@
 # geekunion
-Repository for the hackathon. Summer school BFU 2022
+Repository for the hackathon. Summer school BFU 2021
+
